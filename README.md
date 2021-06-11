@@ -6,3 +6,5 @@
 ```
 git clone https://github.com/mulzahrian/springBoot_swaggerUI.git
 ```
+- Use IntelliJ IDEA
+- Maven or Gradle
